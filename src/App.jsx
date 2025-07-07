@@ -82,7 +82,8 @@ function App() {
     <Router>
       <CartProvider>
         <WishlistProvider> {/* Wishlist wrapped here */}
-          <div className="max-w-screen-md mx-auto px-4">
+          <div className="w-full max-w-[100%] mx-auto">
+
             <Navbar />
             <AnimatedRoutes />
           </div>
