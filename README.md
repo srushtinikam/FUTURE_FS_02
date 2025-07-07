@@ -5,6 +5,10 @@ A fully functional mini e-commerce web application built with **React**, **Fireb
 
 ---
 
+🔗 **Live Demo**: [Visit the Mini Store](https://mini-store-fs02.web.app)
+
+---
+
 ## 🚀 Features
 
 - 🔐 User Authentication (Firebase Auth)
